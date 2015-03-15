@@ -5,7 +5,7 @@ Magic Cookies is our first commercially released Haskell game for Android.
 Please note that this game is currently **not** open source. We are merely using this repository for issue tracking, so that github users have a quick and easy way to report issues, communicate with us and be notified when they are solved.
 
 # Installation
-Our game is available on [Google Play](https://play.google.com/store/apps/details?id=uk.co.keera.games.cookiesout).
+Our game is available on [Google Play](https://play.google.com/store/apps/details?id=uk.co.keera.games.magiccookies).
 
 # Something doesn't work
 Sorry to hear that. Please, open a new [issue](https://github.com/keera-studios/magic-cookies/issues/new) or send an email to [support@keera.co.uk](mailto:support@keera.co.uk).
