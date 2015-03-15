@@ -30,6 +30,7 @@ Github offers a great issue tracking system. There's no reason to force users to
 # Thank you
 We'd like to thank:
 * The Haskell community, for creating such an awesome language and the right tools to build this. In particular, we'd like to thank the creators of the GHC Android backend.
+* Github, for letting us host our repos here.
 * The [Programming Haskell](https://www.facebook.com/groups/programming.haskell/) Facebook group for their constant praise and encouragement.
 * Everyone who wrote to us with kind words of support and encouragement :)
 * Everyone who Flattred us :)
