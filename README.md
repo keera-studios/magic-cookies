@@ -25,7 +25,7 @@ We do not discard the possibility of making the game open source in the future, 
 ## Isn't it a bit strange, to use github for a closed-source project?
 Possibly, but Github doesn't have a problem with that (we spoke with them directly before doing it). Github offers a great issue tracking system. There's no reason to ask users to create new accounts elsewhere, or to give us their confidential email addresses.
 
-We also publish [open source code on github](https://github.com/keera-studios).
+We also publish [open](https://github.com/keera-studios/keera-hails) [source](https://github.com/keera-studios/keera-posture) [code](https://github.com/keera-studios/keera-callbacks) on Github.
 
 # Thank you
 We'd like to thank:
