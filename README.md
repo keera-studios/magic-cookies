@@ -25,7 +25,7 @@ You may want to take a look at the Open Source game [Haskanoid](http://github.co
 ## Isn't it a bit strange, to use github for a closed-source project?
 Possibly, but Github doesn't have a problem with that (other companies, like Valve, are doing the same thing).
 
-We also publish open source code on github.
+We also publish [open source code on github](https://github.com/keera-studios).
 
 Github offers a great issue tracking system. There's no reason to force users to create new accounts somewhere else, or to give us their confidential email addresses.
 
