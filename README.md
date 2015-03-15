@@ -23,7 +23,7 @@ You may want to take a look at the Open Source game [Haskanoid](http://github.co
 We do not discard the possibility of making the game open source in the future, if we sell enough. Our goal is to get just enough money to work on the next Haskell game. And we've already started working on it. You can follow our progress [here](http://facebook.com/keerastudios).
 
 ## Isn't it a bit strange, to use github for a closed-source project?
-Possibly, but Github doesn't have a problem with that (we spoke with them before doing it). Github offers a great issue tracking system. There's no reason to force users to create new accounts somewhere else, or to give us their confidential email addresses.
+Possibly, but Github doesn't have a problem with that (we spoke with them directly before doing it). Github offers a great issue tracking system. There's no reason to ask users to create new accounts elsewhere, or to give us their confidential email addresses.
 
 We also publish [open source code on github](https://github.com/keera-studios).
 
