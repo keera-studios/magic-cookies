@@ -20,12 +20,12 @@ This game is currently **not** open source. We are merely using this repository 
 
 You may want to take a look at the Open Source game [Haskanoid](http://github.com/ivanperez-keera/haskanoid), which supports Wiimote & Kinect and is also written in Haskell using [Yampa](http://github.com/ivanperez-keera/Yampa).
 
+We do not discard the possibility of making the game open source in the future, if we sell enough. Our goal is to get just enough money to work on the next Haskell game. And we've already started working on it. You can follow our progress [here](http://facebook.com/keerastudios).
+
 ## Isn't it a bit strange, to use github for a closed-source project?
-Possibly, but Github doesn't have a problem with that (we spoke with them before doing it).
+Possibly, but Github doesn't have a problem with that (we spoke with them before doing it). Github offers a great issue tracking system. There's no reason to force users to create new accounts somewhere else, or to give us their confidential email addresses.
 
 We also publish [open source code on github](https://github.com/keera-studios).
-
-Github offers a great issue tracking system. There's no reason to force users to create new accounts somewhere else, or to give us their confidential email addresses.
 
 # Thank you
 We'd like to thank:
