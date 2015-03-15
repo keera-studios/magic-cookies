@@ -13,7 +13,7 @@ We often comment on our progress on [Facebook](http://facebook.com/keerastudios)
 
 # FAQ
 ## What technology have you used?
-The game is written in Haskell, with a C and Java wrapper that merely invokes our Haskell main. It uses SDL2 for multimedia. The core is written in the Functional Reactive Programming library [Yampa](http://github.com/ivanperez-keera/Yampa).
+The game is written in Haskell, with a C and Java wrapper that merely invoke our Haskell main. It uses SDL2 for multimedia. The core is written in the Functional Reactive Programming library [Yampa](http://github.com/ivanperez-keera/Yampa).
 
 ## Is your game open source?
 This game is currently **not** open source. We are merely using this repository for issue tracking, so that github users have a quick and easy way to report issues, communicate with us and be notified when they are solved. Some of the (general purpose) code does make it into public and open source projects, though.
