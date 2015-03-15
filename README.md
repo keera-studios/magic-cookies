@@ -2,8 +2,6 @@
 
 Magic Cookies is our first commercially released Haskell game for Android.
 
-Please note that this game is currently **not** open source. We are merely using this repository for issue tracking, so that github users have a quick and easy way to report issues, communicate with us and be notified when they are solved.
-
 # Installation
 Our game is about to be released on [Google Play](https://play.google.com/store/apps/details?id=uk.co.keera.games.magiccookies).
 
@@ -18,7 +16,7 @@ We often comment on our progress on [Facebook](http://facebook.com/keerastudios)
 The game is written in Haskell, with a C and Java wrapper that merely invokes our Haskell main. It uses SDL2 for multimedia. The core is written in the Functional Reactive Programming library [Yampa](http://github.com/ivanperez-keera/Yampa).
 
 ## Is your game open source?
-Not currently. Some of the (general purpose) code does make it into public and open source projects, though.
+This game is currently **not** open source. We are merely using this repository for issue tracking, so that github users have a quick and easy way to report issues, communicate with us and be notified when they are solved. Some of the (general purpose) code does make it into public and open source projects, though.
 
 You may want to take a look at the Open Source game [Haskanoid](http://github.com/ivanperez-keera/haskanoid), which supports Wiimote & Kinect and is also written in Haskell using [Yampa](http://github.com/ivanperez-keera/Yampa).
 
