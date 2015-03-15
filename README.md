@@ -8,7 +8,7 @@ Please note that this game is currently **not** open source. We are merely using
 Our game is available on [Google Play](https://play.google.com/store/apps/details?id=uk.co.keera.games.cookiesout).
 
 # Something doesn't work
-Sorry to hear that. Please, open a new issue or send an email to [support@keera.co.uk](mailto:support@keera.co.uk).
+Sorry to hear that. Please, open a new [issue](https://github.com/keera-studios/magic-cookies/issues/new) or send an email to [support@keera.co.uk](mailto:support@keera.co.uk).
 
 # Follow us!
 We often comment on our progress on [Facebook](http://facebook.com/keerastudios) and [Twitter](http://twitter.com/KeeraStudios). Please, follow us. Everything we publish has to do with multimedia and games in Haskell and other Functional languages.
