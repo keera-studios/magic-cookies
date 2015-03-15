@@ -33,6 +33,9 @@ Github offers a great issue tracking system. There's no reason to force users to
 We'd like to thank:
 * The Haskell community, for creating such an awesome language and the right tools to build this. In particular, we'd like to thank the creators of the GHC Android backend.
 * The Haskell Facebook group for their constant praise and encouragement.
-* Everyone who wrote to us to encourage us to keep working.
+* Everyone who wrote to us with kind words of support and encouragement :)
+* Everyone who Flattred us :)
 * Our beta testers, who put up with slow, heavy, boring versions until we got to a reasonably stable version. For privacy reasons, we cannot name names, but thanks to all of you for your help.
-* Those who buy the app. Please buy the app! We only get a very small fee for every customer, so we need to sell thousands to be able to get enough money to pay the bills and publish the next game.
+* Those who buy the app. Please buy the app! We only get a very small fee for every customer, so we need to sell to thousands to get enough money to pay the bills and publish the next game. We are already working on it!
+
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ivanperez-keera&url=https://github.com/keera-studios/magic-cookies&title=Magic%20Cookies&language=&tags=github&category=software) 
