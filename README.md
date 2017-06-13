@@ -1,6 +1,6 @@
 # Eat all the cookies on the tray!
 
-Magic Cookies is our first commercially released Haskell game for Android.
+Magic Cookies is our first commercially released Haskell game for Android and iOS.
 
 # Installation
 Magic Cookies is available for [AppStore](https://play.google.com/store/apps/details?id=uk.co.keera.games.magiccookies) for iOS and on [Google Play](https://play.google.com/store/apps/details?id=uk.co.keera.games.magiccookies) for Android!
