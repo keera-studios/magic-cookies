@@ -3,7 +3,7 @@
 Magic Cookies is our first commercially released Haskell game for Android.
 
 # Installation
-Magic Cookies is available on [Google Play](https://play.google.com/store/apps/details?id=uk.co.keera.games.magiccookies)!
+Magic Cookies is available on the [AppStore](https://play.google.com/store/apps/details?id=uk.co.keera.games.magiccookies)! and on [Google Play](https://play.google.com/store/apps/details?id=uk.co.keera.games.magiccookies)!
 
 # Something doesn't work
 Sorry to hear that. Please, open a new [issue](https://github.com/keera-studios/magic-cookies/issues/new) or send an email to [support@keera.co.uk](mailto:support@keera.co.uk). Please, be aware that issues reported using github are visible to everybody. If you are including confidential information, please send us an email.
@@ -13,7 +13,7 @@ We often comment on our progress on [Facebook](http://facebook.com/keerastudios)
 
 # FAQ
 ## What technology have you used?
-The game is written in Haskell, with a C and Java wrapper that merely invoke our Haskell main. It uses SDL2 for multimedia. The core is written in the Functional Reactive Programming library [Yampa](http://github.com/ivanperez-keera/Yampa).
+The game is written in Haskell. For Android, there's a C and Java wrapper that merely invoke our Haskell main. For iOS, that part is done in objective C. It uses SDL2 for multimedia. The core is written in the Functional Reactive Programming library [Yampa](http://github.com/ivanperez-keera/Yampa).
 
 ## Is your game open source?
 This game is currently **not** open source. We are merely using this repository for issue tracking, so that github users have a quick and easy way to report issues, communicate with us and be notified when they are solved. Some of the (general purpose) code does make it into public and open source projects, though.
@@ -29,7 +29,7 @@ We also publish [open](https://github.com/keera-studios/keera-hails) [source](ht
 
 # Thank you
 We'd like to thank:
-* The Haskell community, for creating such an awesome language and the right tools to build this. In particular, we'd like to thank the creators of the GHC Android backend.
+* The Haskell community, for creating such an awesome language and the right tools to build this. In particular, we'd like to thank the creators of the GHC Android and iOS backends.
 * Github, for letting us host our repos here.
 * The [Programming Haskell](https://www.facebook.com/groups/programming.haskell/) Facebook group for their constant praise and encouragement.
 * Everyone who wrote to us with kind words of support :)
