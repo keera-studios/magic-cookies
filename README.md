@@ -3,7 +3,7 @@
 Magic Cookies is our first commercially released Haskell game for Android.
 
 # Installation
-Magic Cookies is available on the [AppStore](https://play.google.com/store/apps/details?id=uk.co.keera.games.magiccookies)! and on [Google Play](https://play.google.com/store/apps/details?id=uk.co.keera.games.magiccookies)!
+Magic Cookies is available for [AppStore](https://play.google.com/store/apps/details?id=uk.co.keera.games.magiccookies) for iOS and on [Google Play](https://play.google.com/store/apps/details?id=uk.co.keera.games.magiccookies) for Android!
 
 # Something doesn't work
 Sorry to hear that. Please, open a new [issue](https://github.com/keera-studios/magic-cookies/issues/new) or send an email to [support@keera.co.uk](mailto:support@keera.co.uk). Please, be aware that issues reported using github are visible to everybody. If you are including confidential information, please send us an email.
