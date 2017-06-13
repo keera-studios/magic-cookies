@@ -13,14 +13,14 @@ We often comment on our progress on [Facebook](http://facebook.com/keerastudios)
 The game is written in Haskell. For Android, there's a C and Java wrapper that merely invoke our Haskell main. For iOS, that part is done in objective C. It uses SDL2 for multimedia. The core is written in the Functional Reactive Programming library [Yampa](http://github.com/ivanperez-keera/Yampa).
 
 ## Is your game open source?
-This game is currently **not** open source. We are merely using this repository for issue tracking, so that github users have a quick and easy way to report issues, communicate with us and be notified when they are solved. Some of the (general purpose) code does make it into public and open source projects, though.
+Currently, **not**. We use this repo for issue tracking, so that github users have a quick and easy way to report issues, communicate with us and be notified when they are solved. Some of the (general purpose) code does make it into public and open source projects, though.
 
 You may want to take a look at the Open Source game [Haskanoid](http://github.com/ivanperez-keera/haskanoid), which supports Wiimote & Kinect and is also written in Haskell using [Yampa](http://github.com/ivanperez-keera/Yampa).
 
-We do not discard the possibility of making the game open source in the future, if we sell enough. Our goal is to get just enough money to work on the next Haskell game. And we've already started working on it. You can follow our progress [here](http://facebook.com/keerastudios).
+We do not discard the possibility of making the game open source in the future.
 
 ## Isn't it a bit strange, to use github for a closed-source project?
-Possibly, but Github doesn't have a problem with that (we spoke with them directly before doing it). Github offers a great issue tracking system. There's no reason to ask users to create new accounts elsewhere, or to give us their confidential email addresses.
+Possibly, but Github doesn't have a problem with that (we spoke with them directly before doing it). They offer a great issue tracking system. This way users don't need to create new accounts elsewhere, or to give us their email addresses.
 
 We also publish [open](https://github.com/keera-studios/keera-hails) [source](https://github.com/keera-studios/keera-posture) [code](https://github.com/keera-studios/keera-callbacks) on Github.
 
