@@ -2,6 +2,10 @@
 
 Magic Cookies is our first commercial Haskell game. It's available for iOS on the [AppStore](https://play.google.com/store/apps/details?id=uk.co.keera.games.magiccookies) and for Android on [Google Play](https://play.google.com/store/apps/details?id=uk.co.keera.games.magiccookies)!
 
+<p align="center">
+<img src="https://github.com/keera-studios/magic-cookies/raw/master/screencap.gif" alt="Screen capture of Magic Cookies on iOS" /> <br /> Screen capture of Magic Cookies on iOS
+</p>
+
 # Something doesn't work
 Sorry to hear that. Please, open a new [issue](https://github.com/keera-studios/magic-cookies/issues/new) or send an email to [support@keera.co.uk](mailto:support@keera.co.uk). Please, be aware that issues reported using github are visible to everybody. If you are including confidential information, please send us an email.
 
