@@ -38,4 +38,16 @@ We'd like to thank:
 * Our beta testers, who put up with slow, heavy, boring versions until we got to a reasonably stable version. For privacy reasons we cannot publish their names, but we thank them for all their help.
 * Those who buy the app. Please buy the app! We only get a very small fee for every customer, so we need to sell thousands to get enough money to pay the bills and publish the next game. We are already working on it!
 
+# Copyright
+
+Copyright (c) - 2015 - Keera Studios Ltd - All Rights Reserved.
+
+Keera, Keera Studios, the Keera Studios logo, Magic Cookies, the Magic Cookies
+splash screen, and the Magic Cookies logo are trademarks of Keera Studios Ltd.
+Google Play and the Google Play logo are trademarks of Google LLC. Apple, the
+Apple logo, iPhone, and iPad are trademarks of Apple Inc., registered in the
+U.S. and other countries and regions. App Store is a service mark of Apple Inc.
+TWITTER, TWEET, RETWEET and the Twitter logo are trademarks of Twitter, Inc. or
+its affiliates.
+
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ivanperez-keera&url=https://github.com/keera-studios/magic-cookies&title=Magic%20Cookies&language=&tags=github&category=software)
